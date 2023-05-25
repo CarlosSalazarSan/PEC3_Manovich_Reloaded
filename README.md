@@ -2,10 +2,7 @@
 
 ### Recurso de aprendizaje de Cultura Digital 
 
-
 Autor: Carlos Salazar Sánchez
-
-
 Fecha:  24/05/2023
 
 ![Playstation](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/legacy_bdt/ps5-digital-1964701.jpg?tf=384x) 
@@ -18,7 +15,9 @@ Sin que la mayoría de las persona los sepan, la **hibridación** se ha converti
 
 Manovich nos presenta en su libro los fundamentos de la hibridación y la apareción de nuevos medios o metamedios y como estos se han convertido en la base del desarrollo de las nuevas tecnologías y con ello ha surgido la sociedad del software. En este caso nos vamos a centrar en la videoconsola Playstation y en un software que podría considerarse un familiar de Autocad: Dialux.
 
-## Re-descubriendo la hibridacion: Playstation
+## Re-descubriendo la hibridacion: Playstation (PS)
+
+![Playstation](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/legacy_bdt/ps5-digital-1964701.jpg?tf=384x) 
 
 Las videoconsolas parten de una base: el **juego**. Se parten de los juegos tradicionales y siempre se van añadiendo nuevos elementos o reglas. Por ejemplo, juegos sencillos como eran los juegos de mesa (cartas, dominó, monopoly…), juegos de punteria (lanzamiento con arco), juegos para crear mundos y escenarios (Lego, Playmobil), y posteriormente deportes (fútbol, baloncesto…). Todo estos juegos se han ido adaptando a las nuevas tecnologías y el medio preferido para practicarlos es la Playstation.
 
@@ -26,12 +25,12 @@ Los nuevos estilos de vida y la pandemia han provocado un auge en sus ventas. Se
 
 Inicialmente las videoconsolas, y destaco la PlayStation 1, solo estaban diseñada para jugar, pero con el paso del tiempo, la Playstation se ha convertido en un reproductor de video o de música. Están conectadas a internet para poder jugar en línea o poder descargar los juegos. (YA no hace falta ir a la tienda a comprar el DVD). Permite compartir grabar la partida o partes de esta y compartirlas con los amigos o en las redes sociales.  Permite una nueva forma de tratar los datos y de compartirlos.
 
-Los mandos de la videoconsola permiten transmitir vibraciones para que el jugador o jugadora experimente de manera física lo que sucede en el juego. El movimiento del mando (en determinados modos de juego) significa un movimiento en el juego. 
+Los mandos de la videoconsola permiten transmitir  **vibraciones** para que el jugador o jugadora experimente a nivel físico lo que sucede en el juego virtual. Por otro lado, el mando incorpora sensores de movimiento y acelerómetros. En determinados juegos o modos de juego, el movimiento del mando equivale a un movimiento similar en el mundo virtual. 
 
-Otros accesorios que hacen que la videoconsola sea un híbrido son los siguientes:
-* A través de **auriculares y micrófonos**** permite comunicarse con otros jugadores.
-* Con la ayuda de unos **micrófonos** se puede jugar a juegos de karaoke. Estos juegos permiten dar una puntuación a la afinación de los participantes e indica si la entonación se encuentra lejos o cerca del tono original de la canción.
-* Con el juego Rockband a través del **movimiento** se puede aprender a tocar la batería y fomentar el movimiento a través de juegos que siempre estaban vinculados a estilos de vida sendentarios. 
+Otros accesorios que hacen que la videoconsola Playtation sea un híbrido son los siguientes:
+* A través de **auriculares y micrófonos**** permite comunicarse con otros jugadores. Se convierta en un nuevo canal de comunicación
+* Con la ayuda de unos **micrófonos** permite captar la voz y en determinados juegos de karaoke permite valorar el canto del jugador. Estos juegos valoran diferentes parámetros y de esta manera asigna una puntuación a la afinación de los participantes e indica si la entonación se encuentra lejos o cerca del tono original de la canción.
+* Con los accesorios del juego Rockband, batería y guitarra, y a través del **movimiento** se puede aprender a tocar la batería y fomentar el movimiento. Es un aspecto positivo porque de esta manera el mundo virtual y sedentario anima al individuo a moverse.
 * Las **gafas de realidad virtual** para PS5 permiten al jugador disfrutar de una visualización del entorno en 360°. 
 * Y como gran novedad, la PS5 incorpora el *control de Gestos*. Esto es posible gracias a la **cámara de movimiento** que incorpora el dispositivo. Esta función permite interactuar con los juegos de modo novedos. Esta característica incluye:
 
@@ -43,6 +42,7 @@ Como se puede apreciar en la videoconsola **PlayStation** se combinan diferentes
 
 
 ## Re-descubriendo la hibridacion: DIALUX
+
 ![Dialux](https://blog.ebac.mx/blog/wp-content/uploads/2022/12/image3.gif)
 
 En un principio suele darse poca importancia a la iluminación de una casa o una oficina. Los arquitectos se centran en las estructuras, gestión de espacios y ventanas, pero ¿qué es lo que siempre hay en toda casa o empresa independientemente del nivel económico? luz y lámparas. 
@@ -61,12 +61,12 @@ Al igual que otras programas, el software tiene funciones como acercar/alejar, c
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* [https://generativeways.com/diseno-y-calculo-luminico-con-dialux-2/]
-* [https://ebac.mx/blog/que-es-dialux]
-* [https://www.xataka.com/analisis/playstation-5-analisis-caracteristicas-precio-especificaciones]
-* https://videojuegos.roams.es/plataformas/ps5/accesorios/gafas-vr/
-* https://trucoteca.com/como-usar-la-funcion-de-control-por-gestos-en-ps5/
-* https://computerhoy.com/productos/consolas/sony-playstation-5
+* [https://generativeways.com/diseno-y-calculo-luminico-con-dialux-2/] (Consultado: 22 de mayo de 2023)
+* Jaraba, F. (3.05.2023).¿Qué es DIALux y cómo usar el programa?. Disponible en:[https://ebac.mx/blog/que-es-dialux] (Consultado: 23 de mayo de 2023)
+*  Tone, J y López JC. (10.11.2020). PlayStation 5, análisis: Sony apuesta por la innovación con un mando DualSense que es el compañero perfecto para un hardware muy potente.Disponible en:[https://www.xataka.com/analisis/playstation-5-analisis-caracteristicas-precio-especificaciones] (Consultado: 21 de mayo de 2023)
+* PS VR2 para PS5: descubre su precio, características y sus juegos (Mayo 2023). Disponible en:[https://videojuegos.roams.es/plataformas/ps5/accesorios/gafas-vr/] (Consultado: 21 de mayo de 2023)
+* Cómo usar la función de control por gestos en PS5. Disponible en:[https://trucoteca.com/como-usar-la-funcion-de-control-por-gestos-en-ps5/] (Consultado: 22 de mayo de 2023)
+* . Disponible en: [https://computerhoy.com/productos/consolas/sony-playstation-5] (Consultado: 21 de mayo de 2023)
 
 ----
 
