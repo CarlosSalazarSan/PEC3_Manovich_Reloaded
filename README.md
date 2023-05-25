@@ -45,13 +45,13 @@ Como se puede apreciar en la videoconsola **PlayStation** se combinan diferentes
 ## Re-descubriendo la hibridacion: DIALUX
 ![Dialux](https://blog.ebac.mx/blog/wp-content/uploads/2022/12/image3.gif)
 
-En un principio suele darse poca importancia a la iluminación de una casa o una oficina. Los arquitectos se centran en las estructuras, gestión de espacios y ventanas, pero que es lo que siempre hay en toda casa o empresa independientemente de del nivel económico: luz y lámparas. 
+En un principio suele darse poca importancia a la iluminación de una casa o una oficina. Los arquitectos se centran en las estructuras, gestión de espacios y ventanas, pero ¿qué es lo que siempre hay en toda casa o empresa independientemente del nivel económico? luz y lámparas. 
 
-**DIALux** es un software gratuito diseñado para la creación de proyectos tanto para espacios interiores como exteriores. Permite diseñar en el plano o en 3D. 
+**DIALux** es un software gratuito diseñado para la creación de proyectos de iluminación tanto para espacios interiores como exteriores. Permite diseñar en el plano o en 3D. 
 
-El dominio de este programa y conceptos han generado en algunos países como Alemania una profesión: **Lichtplanner**. Su función principal es la de asegurar que la estancia o el espacio exterior tenga la luz adecuada. 
+El dominio de este programa y conceptos básicos como lúmenes, lux o candela han generado en algunos países de Europa, por ejemplo Alemania, una nueva profesión: **Lichtplanner**. Su función principal es la de asegurar que la estancia o el espacio exterior tenga la luz adecuada. 
 
-En Dialux se puede crear un proyecto desde cero o se pueden importar los datos de otros programas, por ejemplo, AutoCAD y de esta manera trabajar sobre ellos. DE esta manera permite combinar dos medios. Además, los datos fotométricos que se emplean son compatibles con diferentes formatos .ies o .ldt. Estos datos son generados por los fabricantes de lámparas, pues son ellos los principales interesados en que sus artículos se encuentren dentro del catálogo que se ofrece en el software.  
+En Dialux se puede crear un proyecto desde cero o se pueden importar los datos de otros programas, por ejemplo, AutoCAD y de esta manera trabajar sobre ellos. Esta capacidad de poder trabajar con datos de otros programas simplifica todo el trabajo y permite un mejor trabajo en equipo. De esta manera permite compatibilizar datos y formatos. Además, los datos fotométricos que se emplean son compatibles con diferentes formatos .ies o .ldt. Estos datos son generados por los fabricantes de lámparas, pues son ellos los principales interesados en que sus artículos se encuentren dentro del catálogo que se ofrece en el software.  
 
 Los formatos de salida de Dialux son múltiples. Se puede exportar en formato de imagen (jpg), en formato pdf o también en formato de video. Todos muy interesantes para poder visualizar una información, la luz, que es vital, pero difícil de ver y cuantificar.
 Dialux no solo permite calcular la luz adecuada, también organiza la ubicación de las lámparas y luminarias de manera automática según el algoritmo del software. Posteriormente permite que el diseñador cambie la ubicación de las lámparas según considere oportuno. El software permite arrastrar objetos. 
