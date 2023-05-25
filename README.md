@@ -11,21 +11,21 @@ Fecha:  24/05/2023
 
 ## Planteamiento
 
-Sin que la mayoría de las persona los sepan, la **hibridación** se ha convertido en uno de los pilares fundamentales para el progreso. El pensamiento crítico y analítico característico de las personas permite analizar las situaciones y buscar nuevas soluciones, pero estas nuevas soluciones suelen basarse en los conocimientos previos y en añadir un nuevo componente o función.
+Sin que la mayoría de las persona los sepan, la **hibridación** se ha convertido en uno de los pilares fundamentales para el progreso. El pensamiento crítico y analítico característico de las personas permite analizar las situaciones y buscar nuevas soluciones, pero estas nuevas soluciones suelen basarse en los conocimientos previos y en añadir un nuevo componente o función a los medios ya conocidos.
 
-Manovich nos presenta en su libro los fundamentos de la hibridación y la apareción de nuevos medios o metamedios y como estos se han convertido en la base del desarrollo de las nuevas tecnologías y con ello ha surgido la sociedad del software. En este caso nos vamos a centrar en la videoconsola Playstation y en un software que podría considerarse un familiar de Autocad: Dialux.
+Manovich nos presenta en su libro los fundamentos de la hibridación y la aparición de nuevos medios o metamedios y como estos se han convertido en la base del desarrollo de las nuevas tecnologías y con ello ha surgido la sociedad del software. En este caso nos vamos a centrar en la videoconsola Playstation y en un software específico de los proyectos de iluminación: Dialux.
 
 ## Re-descubriendo la hibridacion: Playstation (PS)
 
 ![Playstation](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/legacy_bdt/ps5-digital-1964701.jpg?tf=384x) 
 
-Las videoconsolas parten de una base: el **juego**. Se parten de los juegos tradicionales y siempre se van añadiendo nuevos elementos o reglas. Por ejemplo, juegos sencillos como eran los juegos de mesa (cartas, dominó, monopoly…), juegos de punteria (lanzamiento con arco), juegos para crear mundos y escenarios (Lego, Playmobil), y posteriormente deportes (fútbol, baloncesto…). Todo estos juegos se han ido adaptando a las nuevas tecnologías y el medio preferido para practicarlos es la Playstation.
+Las videoconsolas parten de una base: el **juego**. Específicamente se partía de los juegos tradicionales y posteriormente se van añadiendo nuevos elementos o reglas. Por ejemplo, juegos sencillos como eran los juegos de mesa (cartas, dominó, monopoly…), juegos de puntería (lanzamiento con arco), juegos para crear mundos y escenarios (Lego, Playmobil), y posteriormente deportes (fútbol, baloncesto…). Todo estos juegos se han ido adaptando a las nuevas tecnologías y el medio preferido para practicarlos en la actualidad es la Playstation.
 
 Los nuevos estilos de vida y la pandemia han provocado un auge en sus ventas. Según Wikipedia se han vendido 38,4 millones de unidades de la PlayStation 5 y 117,2 millones del anterior modelo, PS4. Las videoconsolas y sus accesorios han permitido vivir nuevas realidades. Ya no se trata de jugar a un juego. 
 
-Inicialmente las videoconsolas, y destaco la PlayStation 1, solo estaban diseñada para jugar, pero con el paso del tiempo, la Playstation se ha convertido en un reproductor de video o de música. Están conectadas a internet para poder jugar en línea o poder descargar los juegos. (YA no hace falta ir a la tienda a comprar el DVD). Permite compartir grabar la partida o partes de esta y compartirlas con los amigos o en las redes sociales.  Permite una nueva forma de tratar los datos y de compartirlos.
+Inicialmente las videoconsolas (Master System, Megadrive, Super Nintendo...) solo estaban diseñada para jugar, pero con el paso del tiempo, la Playstation se ha convertido en un reproductor de video o de música, dipsone de conexión para conectarse a internet y poder jugar en línea o descargar los juegos (ya no hace falta ir a la tienda a comprar el DVD). Permite compartir grabar la partida o partes de esta y compartirlas con los amigos o en las redes sociales. Es decir, se trata de una nueva forma de tratar el formato de los videojuegos en este tipo de dispositivos.
 
-Los mandos de la videoconsola permiten transmitir  **vibraciones** para que el jugador o jugadora experimente a nivel físico lo que sucede en el juego virtual. Por otro lado, el mando incorpora sensores de movimiento y acelerómetros. En determinados juegos o modos de juego, el movimiento del mando equivale a un movimiento similar en el mundo virtual. 
+Los mandos de la videoconsola permiten transmitir  **vibraciones** para que el jugador o jugadora experimente a nivel físico y en tiempo real lo que sucede en el mundo virtual. Por otro lado, el mando incorpora sensores de movimiento y acelerómetros que en determinados juegos o modos de juego, el movimiento del mando equivale a un movimiento similar en el mundo virtual. 
 
 Otros accesorios que hacen que la videoconsola Playtation sea un híbrido son los siguientes:
 * A través de **auriculares y micrófonos**** permite comunicarse con otros jugadores. Se convierta en un nuevo canal de comunicación
@@ -51,7 +51,7 @@ En un principio suele darse poca importancia a la iluminación de una casa o una
 
 El dominio de este programa y conceptos básicos como lúmenes, lux o candela han generado en algunos países de Europa, por ejemplo Alemania, una nueva profesión: **Lichtplanner**. Su función principal es la de asegurar que la estancia o el espacio exterior tenga la luz adecuada. 
 
-En Dialux se puede crear un proyecto desde cero o se pueden importar los datos de otros programas, por ejemplo, AutoCAD y de esta manera trabajar sobre ellos. Esta capacidad de poder trabajar con datos de otros programas simplifica todo el trabajo y permite un mejor trabajo en equipo. De esta manera permite compatibilizar datos y formatos. Además, los datos fotométricos que se emplean son compatibles con diferentes formatos .ies o .ldt. Estos datos son generados por los fabricantes de lámparas, pues son ellos los principales interesados en que sus artículos se encuentren dentro del catálogo que se ofrece en el software.  
+En Dialux se puede crear un proyecto desde cero o se pueden importar los datos de otros programas, por ejemplo, AutoCAD y de esta manera trabajar sobre ellos. Esta capacidad de poder operar con datos de otros programas simplifica todo el trabajo y permite un mejor trabajo en equipo. De esta manera permite compatibilizar datos y formatos. Además, los datos fotométricos que se emplean son compatibles con diferentes formatos .ies o .ldt. Estos datos son generados por los fabricantes de lámparas, pues son ellos los principales interesados en que sus artículos se encuentren dentro del catálogo que se ofrece en el software.  
 
 Los formatos de salida de Dialux son múltiples. Se puede exportar en formato de imagen (jpg), en formato pdf o también en formato de video. Todos muy interesantes para poder visualizar una información, la luz, que es vital, pero difícil de ver y cuantificar.
 Dialux no solo permite calcular la luz adecuada, también organiza la ubicación de las lámparas y luminarias de manera automática según el algoritmo del software. Posteriormente permite que el diseñador cambie la ubicación de las lámparas según considere oportuno. El software permite arrastrar objetos. 
@@ -68,6 +68,7 @@ Al igual que otras programas, el software tiene funciones como acercar/alejar, c
 * Cómo usar la función de control por gestos en PS5. Disponible en:[https://trucoteca.com/como-usar-la-funcion-de-control-por-gestos-en-ps5/] (Consultado: 22 de mayo de 2023)
 * [https://computerhoy.com/productos/consolas/sony-playstation-5] (Consultado: 21 de mayo de 2023)
 * Latorre J.I (16.12.2019).[https://www.eltiempo.com/tecnosfera/novedades-tecnologia/como-sera-la-evolucion-tecnologica-para-la-decada-2020-2030-444186] (Consultado: 25 de mayo de 2023)
+* Anexo:Consolas de videojuegos más vendidas.[https://es.wikipedia.org/wiki/Anexo:Consolas_de_videojuegos_m%C3%A1s_vendidas] (Consultado: 20 de mayo de 2023)
 
 ----
 
