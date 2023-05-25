@@ -5,7 +5,7 @@
 Autor: Carlos Salazar Sánchez
 Fecha:  24/05/2023
 
-![Playstation](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/legacy_bdt/ps5-digital-1964701.jpg?tf=384x) 
+![Hibridación](https://www.eltiempo.com/files/article_main/uploads/2019/12/07/5dec47012d257.jpeg)) 
 
 
 
@@ -66,7 +66,8 @@ Al igual que otras programas, el software tiene funciones como acercar/alejar, c
 *  Tone, J y López JC. (10.11.2020). PlayStation 5, análisis: Sony apuesta por la innovación con un mando DualSense que es el compañero perfecto para un hardware muy potente.Disponible en:[https://www.xataka.com/analisis/playstation-5-analisis-caracteristicas-precio-especificaciones] (Consultado: 21 de mayo de 2023)
 * PS VR2 para PS5: descubre su precio, características y sus juegos (Mayo 2023). Disponible en:[https://videojuegos.roams.es/plataformas/ps5/accesorios/gafas-vr/] (Consultado: 21 de mayo de 2023)
 * Cómo usar la función de control por gestos en PS5. Disponible en:[https://trucoteca.com/como-usar-la-funcion-de-control-por-gestos-en-ps5/] (Consultado: 22 de mayo de 2023)
-* . Disponible en: [https://computerhoy.com/productos/consolas/sony-playstation-5] (Consultado: 21 de mayo de 2023)
+* [https://computerhoy.com/productos/consolas/sony-playstation-5] (Consultado: 21 de mayo de 2023)
+* Latorre J.I (16.12.2019).[https://www.eltiempo.com/tecnosfera/novedades-tecnologia/como-sera-la-evolucion-tecnologica-para-la-decada-2020-2030-444186] (Consultado: 25 de mayo de 2023)
 
 ----
 
